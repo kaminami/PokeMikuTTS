@@ -6,8 +6,8 @@ PokeMikuTTS
 
 なお、2014年6月時点では、Google Chromeでのみ動作する。
 
-[ミク語変換API]( http://aikelab.net/mikugo/)を利用している。
-ライブラリ製作者の提供するサービスではないので、使用時には注意していただきたい。
+[ミク語変換API]( http://aikelab.net/mikugo/)を利用させていただいている。
+こちらはライブラリ製作者の提供するサービスではないので、使用時には注意していただきたい。
 
 ## Requirements
 * jQuery
