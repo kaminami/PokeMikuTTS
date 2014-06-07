@@ -2,6 +2,8 @@ PokeMikuTTS
 ===========
 
 ポケット・ミクで、簡易なText to Speechをするためのライブラリ。
+
+
 なお、2014年6月時点では、Google Chromeでのみ動作する。
 
 ミク語変換API（http://aikelab.net/mikugo/）を利用している。
